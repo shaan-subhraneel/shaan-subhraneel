@@ -1,8 +1,8 @@
 ### Hello People! 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/subhraneel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhraneelchowdhury/)](https://www.linkedin.com/in/subhraneelchowdhury/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/11438677/subhraneel)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Subhraneel-red)](https://www.youtube.com/subhraneel)
+[![Linkedin Badge](https://img.shields.io/badge/-SubhraneelChowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhraneelchowdhury/)](https://www.linkedin.com/in/subhraneelchowdhury/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-subhraneel-yellow)](https://stackoverflow.com/users/11438677/subhraneel)
 
 
 
