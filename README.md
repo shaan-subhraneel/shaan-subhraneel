@@ -15,4 +15,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shaan-subhraneel&column=7"/>
   </a>
 </div>
-![](https://activity-graph.herokuapp.com/graph?username=shaan-subhraneel&theme=react-dark&area=true)
+
+By the way, this README file has been made by taking a reference from a github user! Don't worry, I will remake it soon! Sorry for the unprofessionalism!
